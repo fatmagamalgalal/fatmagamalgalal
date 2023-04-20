@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatma</h1>
 <h3 align="center">A passionate Machine learning Engineer from Egypt</h3>
 
-- 🔭 I’m currently studying in **Information Technology Institute (ITI) logo Information Technology Institute (ITI)**
+- 🔭 I’m currently studying in **Information Technology Institute (ITI)**
 
 - 🌱 I’m currently learning **Computer vision, NLP, Big data**
 
